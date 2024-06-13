@@ -8,7 +8,7 @@ fi
 
 # Defina o nome do novo usuário e a senha
 NOVO_USUARIO=a
-SENHA=aaaaaa"
+SENHA=aaaaaa
 
 # Cria o novo usuário
 useradd -m -s /bin/bash "$NOVO_USUARIO"
